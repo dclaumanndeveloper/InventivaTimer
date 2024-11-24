@@ -1,5 +1,5 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { ThemeProvider } from "styled-components";
-import { Button } from "./components/Button";
 import { defaultTheme } from "./styles/themes/default";
 import { BrowserRouter } from "react-router-dom";
 import { GlobalStyle } from "./styles/global";
